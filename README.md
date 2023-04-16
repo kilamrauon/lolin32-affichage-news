@@ -7,5 +7,5 @@ a program that fetches the rss feed of the news of france info and displays them
 two buttons, one to change the news and the second to switch from the title of the news to its description.
 
 1 lolin 32
-2 push buttons - boutons poussoirs 
+2 push buttons - boutons poussoir
 1 screen / ecran ssd1306
